@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ZEO OFC
 
 *🏧 BANK*
 
@@ -15,17 +15,19 @@ return `PAYMENT BY ZEEONE OFC
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0895 1620 7932 an/AG
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0895 1620 7932 an/zeo
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0895 1620 7932 an/zeo
 	
-Semuanya atas nama RI****DI
 
 *📲 PULSA*
+1. TELKOMSEL
+	ㅁ 0812 3216 6194
+2. TRI
+	ㅁ 0895 1620 7932
 
-Tidak tersedia
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
