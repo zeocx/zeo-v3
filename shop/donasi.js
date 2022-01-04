@@ -15,18 +15,14 @@ return `DONASI BISA VIA BANK / E-MONEY
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0895 1620 7932 an/AG
-2. OVO
-	ㅁ 0895 1620 7932 an/zeo
-3. DANA
-	ㅁ 0895 1620 7932 an/zeo
-	
-
-*📲 PULSA*
-1. TELKOMSEL
-	ㅁ 0812 3216 6194
-2. TRI
 	ㅁ 0895 1620 7932
+2. OVO
+	ㅁ 0895 1620 7932
+3. DANA
+	ㅁ 0895 1620 7932
+	
+Semuanya atas nama zeo
+`
 	}
 
 exports.donasibot = donasibot
