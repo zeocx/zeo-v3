@@ -159,7 +159,7 @@ SEBAGIAN LU EDIT DI SETTING.JSON
 var nomor_ovo = `089516207932\nA.N ZEO` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_dana = `089516207932\nA.N ZEO` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_gopay = `089516207932\nA.N A G` //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_ovo = 'https://g.top4top.io/p_2195o3osi1.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_ovo = '' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_dana = 'https://f.top4top.io/p_2195texrw0.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://b.top4top.io/p_2195akh710.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
